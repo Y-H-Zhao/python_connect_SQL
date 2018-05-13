@@ -1,3 +1,0 @@
-import pymssql
-db = pymssql.connect(host="192.0.0.200",user="ymyg",password="ymyg",database="Geek_Web",as_dict=True)
-#其他方法同mysql中使用方法一致
